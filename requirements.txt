@@ -1,0 +1,9 @@
+numpy
+pymupdf
+python-docx
+langchain
+langchain_community
+chroma
+faiss-cpu
+transformers
+sentence-transformers
