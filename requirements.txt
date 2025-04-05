@@ -1,9 +1,9 @@
 numpy
-pymupdf
+PyPDF2
 python-docx
-langchain
-langchain_community
-chroma
-faiss-cpu
+streamlit
 transformers
-sentence-transformers
+langchain
+langchain-community
+tf-keras
+sentencepiece
